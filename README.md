@@ -10,5 +10,4 @@ According to the abstract of the paper:
 
 "EHUNAM is a comprehensive channel state information (CSI) dataset developed for various WS applications, with a primary focus on people counting (PC), human activity recognition (HAR), and machine activity recognition (MAR), while remaining suitable for additional tasks. The dataset was acquired using diverse equipment configurations and under different scenarios, ensuring versatility and representativeness. Beyond traditional applications, EHUNAM includes measurements for recognizing activities of home appliances and industrial machines.} To achieve high accuracy in new settings, data was collected over 23 days in eight distinct environments, including an industrial scenario, involving 21 people and nine machines that can also perform activities simultaneously. Validation using a convolutional neural network (CNN) for PC, HAR, and machine activity recognition, considering multiclass and multilabel classification, achieved over 90\% accuracy in most cases, underscoring the dataset's robustness and its capacity to tackle a broad spectrum of real-world scenarios."
 
-The dataset is open access and can be downloaded:
-https://figshare.com/s/e72ab742beae04818b4e
+
