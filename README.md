@@ -17,4 +17,4 @@ Channel phase processing in wireless networks for human activity recognition (DO
 
 In addition, the subcarriers that do not contain information (nulls and pilots) were removed because they do not include information about the propagation channel. 
 
-The file Subcarriers.m attached in the repository is the file used to remove the subcarriers.
+The file Subcarrier.m attached in the repository is the file used to remove the subcarriers.
