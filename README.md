@@ -15,5 +15,5 @@ In the paper, the results are obtained using two pre-processing steps:
 
 First, the subcarriers that do not contain information (nulls and pilots) were removed because they do not include information about the propagation channel. The file Subcarrier.m, attached to the repository, is used to remove the subcarriers.
 
-Second, a CSI phase processing method, which is described in the following paper: "Channel phase processing in wireless networks for human activity recognition" (DOI: https://doi.org/10.1016/j.iot.2023.100960)
+Second, a CSI phase processing method was applied, which is described in the paper: "Channel phase processing in wireless networks for human activity recognition" (DOI: https://doi.org/10.1016/j.iot.2023.100960)
 
