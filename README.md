@@ -4,7 +4,7 @@ This repository provides information about the EHUNAM dataset: a WiFi CSI-based 
 The reference paper for the EHUNAM dataset will be available once it is published.
 
 The dataset is open access and can be downloaded from:
-https://figshare.com/s/e72ab742beae04818b4e
+https://figshare.com/s/e72ab742beae04818b4e (size 72 Gb)
 
 According to the abstract of the paper:
 
