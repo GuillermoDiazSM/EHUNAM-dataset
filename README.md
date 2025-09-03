@@ -8,7 +8,7 @@ Abstract:
 The reference paper for the EHUNAM dataset will be available once it is published.
 
 The dataset is open access and can be downloaded from:
-https://figshare.com/s/e72ab742beae04818b4e (size 72 Gb)
+ https://doi.org/10.6084/m9.figshare.28541225 (size 72 Gb)
 
 
 ### Data pre-processing
